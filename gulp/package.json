@@ -1,0 +1,19 @@
+{
+  "name": "kickstart-services",
+  "version": "1.0.0",
+  "description": "Automate install and kickstart services",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Trịnh Minh Cường",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}

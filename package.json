@@ -1,0 +1,11 @@
+{
+  "name": "ah-jwt",
+  "version": "1.0.0",
+  "description": "Bootstrap to start gulp, then gulp start all servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trịnh Minh Cường",
+  "license": "MIT"
+}

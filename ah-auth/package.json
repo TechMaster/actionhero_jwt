@@ -1,0 +1,24 @@
+{
+  "name": "ah-auth",
+  "version": "1.0.0",
+  "description": "Demo integrate JWT to ActionHero",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "keywords": [
+    "JWT",
+    "ActionHero"
+  ],
+  "author": "Trịnh Minh Cường",
+  "license": "MIT",
+  "dependencies": {
+    "actionhero": "^16.0.0",
+    "bluebird": "^3.4.7",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "jsonwebtoken": "^7.2.1",
+    "lodash": "^4.17.4",
+    "pbkdf2": "^3.0.9"
+  }
+}

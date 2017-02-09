@@ -1,0 +1,21 @@
+{
+  "name": "webapp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "nunjucks"
+  ],
+  "author": "Trịnh Minh Cường",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "jsonwebtoken": "^7.2.1",
+    "nunjucks": "^3.0.0"
+  }
+}

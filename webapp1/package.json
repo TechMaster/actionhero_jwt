@@ -1,0 +1,24 @@
+{
+  "name": "webapp1",
+  "version": "1.0.0",
+  "description": "webapp1 uses authentication service of ah-authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "jwt"
+  ],
+  "author": "Trịnh Minh Cường",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "express-session": "^1.15.0",
+    "jsonwebtoken": "^7.2.1",
+    "nunjucks": "^3.0.0",
+    "request": "^2.79.0"
+  }
+}
